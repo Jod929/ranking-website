@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+thead {
+    color: rgb(8, 8, 8);
+    background-color: rgb(255, 145, 0);
+}
+
+tbody {
+    background-color: rgb(182, 209, 182);
+}
+
+input {
+    width: 50px;
+}
+
+button {
+    width: 28px;
+    border-radius: 5px;
+    text-align: center;
+}
